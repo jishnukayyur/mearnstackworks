@@ -1,0 +1,43 @@
+.row{
+    border: 1px solid rgb(0, 0, 0);
+    background-color:rgb(255, 0, 0);
+    width: 620px;
+    height: 405px;
+    position: relative;
+    display: inline-block;
+}
+.cls{
+    border: 1px solid white;
+    position: absolute; 
+    width: 120px;
+    height: 400px;
+}
+.cls1{
+    background-color: blueviolet;
+}
+.cls2{
+    left:20%;
+    background-color: rgb(0, 96, 175);
+}
+.cls3{
+    left: 40%;
+    background-color: rgb(139, 61, 16);
+}
+.cls4{
+    left: 60%;
+    background-color: rgb(145, 35, 126);
+}
+.cls5{
+    left: 80%;
+    background-color: rgb(11, 136, 17);
+}
+.col{
+        border: 1px solid rgb(0, 0, 0);
+        background-color:rgb(255, 0, 0);
+        width: 620px;
+        height: 405px;
+        position: relative;
+        display: inline-block;
+        margin-left: 50%;
+        margin-top:2% ;
+}

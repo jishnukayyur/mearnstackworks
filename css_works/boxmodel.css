@@ -1,0 +1,15 @@
+div{
+    border: solid;
+    height: 200px;
+    width: 40%;
+}
+.box1{
+    background-color: darkkhaki;
+    margin-top: 20%;
+    margin-left: 30%;
+}
+.box2{
+    background-color: darkorange;
+    margin-top: 2%;
+    margin-left: 30%;
+}

@@ -1,0 +1,12 @@
+div{
+    width: 24%;
+    height: 600px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: left;
+}
+img{
+    width: 85%;
+    height:30%;
+}

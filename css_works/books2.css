@@ -1,0 +1,44 @@
+
+.book{
+    width: 24%;
+    height: 600px;
+    border: 1px solid black;
+}
+.row{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 300px;
+    height:350px;
+    border-radius: 100px;
+}
+button{
+    width: 80px;
+    height: 30px;
+    display: block;
+    margin-left: 30%;
+    margin-top: 10%;
+    background-color: coral;
+    color: white;
+    border-radius: 5px;
+}
+.btn{
+    display: flex;
+    justify-content: space-around;
+}
+header{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    justify-content: space-evenly;
+    align-items: center;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    padding: 100px;
+}

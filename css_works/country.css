@@ -1,0 +1,18 @@
+.parent
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.row{
+    width: 32%;
+    height: 300px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    float: left;
+}
+img{
+    width: 405px;
+    height:250px;
+}

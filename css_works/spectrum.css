@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    margin-left: 35%;
+}
+body{
+    background-color: black;
+}
+.cls1{
+    background-color: #4a5953;
+    width: 8%;
+    height: 150px;
+    display: inline-block;
+    margin-left: 25%;
+    
+}
+.cls2{
+    background-color: #428267;
+    width: 8%;
+    height: 150px;
+    display: inline-block; 
+    margin-left: 10px;  
+}
+.cls3{
+    background-color: #46a37c;
+    width: 8%;
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls4{
+    background-color: #00f58e;
+    width: 8%;
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls5{
+   background-color: #c2c2c2; 
+   width: 8%;
+   height: 150px;
+   display: inline-block;
+   margin-left: 10px; 
+}
+.second{
+    margin-top: 2.5%;
+    
+}
+.cls6{
+    background-color: #f08000;
+    width: 8%;
+    height: 150px;
+    display: inline-block;
+    margin-left: 16%;
+}
+.cls7{
+    background-color: #a63519;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls8{
+    background-color: #2b6787;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls9{
+    background-color: #08a8ff;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls10{
+    background-color: #08ff1c;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls11{
+    background-color: #ff0808;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls12{
+    background-color: #f7ff08;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.third{
+    margin-top: 2.5%;
+}
+.cls13{
+    background-color: #ff0808;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 7%;
+}
+.cls14{
+    background-color: #ff08c1;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls15{
+    background-color: #136119;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls16{
+    background-color: #a12828;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls17{
+    background-color: #17a040;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls18{
+    background-color: #8808ff;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls19{
+    background-color: #ff09ff;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls20{
+    background-color: #0f5e46;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+.cls21{
+    background-color: #084aff;
+    width: 8%; 
+    height: 150px;
+    display: inline-block;
+    margin-left: 10px; 
+}

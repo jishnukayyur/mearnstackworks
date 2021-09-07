@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+div{
+    border: 2px solid chartreuse;
+    font-family: 'Rubik', sans-serif;
+    background-color: coral;
+    width: 25%;
+}
+.second{
+    font-family: 'Rampart One', cursive;
+}
+body{
+    background-color: darkgreen;
+    background-image: url(https://wallpapercave.com/wp/wp3429758.jpg);
+    background-size: cover;
+}

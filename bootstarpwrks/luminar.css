@@ -1,0 +1,90 @@
+body {
+    background-color: whitesmoke;
+}
+
+.symbol {
+    height: 50px;
+    width: 250px;
+    margin-left: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cls2 {
+    font-size: small;
+}
+
+.navcls {
+    background-color: rgb(91, 13, 128);
+    height: 40px;
+}
+
+/* .detailcls {
+    display: flex;
+} */
+
+.para {
+    margin-right: 200px;
+    padding-left: 48px;
+}
+
+.learn_btn {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(91, 13, 128);
+    color: white;
+    border-radius: 28px;
+    margin-left: 48px;
+    border: 1px solid rgb(91, 13, 128);
+}
+
+.learn_btn:hover {
+    background-color: white;
+    color: rgb(91, 13, 128);
+    border: 2px solid rgb(91, 13, 128);
+    transition: 1s ease;
+}
+
+.luminar {
+    margin-top: 8%;
+    margin-left: 48px;
+    color: rgb(91, 13, 128);
+}
+
+.ourcrc {
+    font-size: 32px;
+    padding-top: 75px;
+    color: #5e068a;
+    font-weight: 700;
+    ;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.image1 {
+    width: 90%;
+}
+
+.ds {
+    margin-top: 30px;
+    font-size: 20px;
+    color: #5d0688;
+    margin-left: 100px;
+}
+
+.courses {
+    margin-top: 30px;
+}
+
+.paragraph {
+    font-style: normal;
+    font-size: 14px;
+}
+.cards{
+    margin-top: 50px;
+}
+.cls3{
+    height: 262px;
+}
