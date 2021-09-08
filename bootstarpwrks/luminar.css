@@ -88,3 +88,6 @@ a {
 .cls3{
     height: 262px;
 }
+.cntct{
+    justify-content: space-between;
+}
