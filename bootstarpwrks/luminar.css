@@ -91,3 +91,18 @@ a {
 .cntct{
     justify-content: space-between;
 }
+.fdiv{
+    height: 40px;
+    background-color: #5d0688;
+    color: white;
+    font-size: 13px;
+}
+.fdiv1{
+    margin-left: 5%;
+    padding-top: 10px;
+    display: inline-block;
+}
+.fdiv2{
+    display: inline-block;
+    margin-left: 48%;
+}
