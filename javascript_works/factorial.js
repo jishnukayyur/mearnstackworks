@@ -1,0 +1,7 @@
+var n=5,i=1,fact=1;
+while(i<=n)
+{
+    fact=fact*i;
+    i++
+}
+console.log(`factorial of ${n} = ${fact}`);
