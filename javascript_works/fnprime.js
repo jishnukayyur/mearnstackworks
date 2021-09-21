@@ -1,5 +1,6 @@
-var low=4,upper=27;
-for(let i=low;i<=upper;i++)
+function primeNo(low,upp)
+{
+    for(let i=low;i<=upp;i++)
 {
     let flag=0;
     for(let j=2;j<i;j++)
@@ -16,3 +17,5 @@ for(let i=low;i<=upper;i++)
         console.log(i);
     }
 }
+}
+console.log(primeNo(4,27));
