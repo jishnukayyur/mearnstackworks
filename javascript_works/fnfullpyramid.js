@@ -1,18 +1,13 @@
-function fullPyramid(n)
+for(let row=0;row<4;row++)
 {
     let str="";
-    for(let i = 1; i <= n; i++)
+    for(let space=0;space<(4-row-1);space++)
     {
-        for(let j = 1; j <= n - i; j++)
-        {
-            str+=" ";
-        }
-        for(let k = 0; k < 2 * i - 1; k++)
-        {
-            str+="*"
-        }
-        str+="\n"
+        str+=" ";
     }
-    return str
+    for(let col=0;col<(row+1);col++)
+    {
+        str+="* ";
+    }
+    console.log(str);
 }
-console.log(fullPyramid(5));

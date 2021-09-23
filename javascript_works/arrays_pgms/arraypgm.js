@@ -16,12 +16,21 @@ for(let exp of expenses)
         min=exp;
     }
 }
-console.log(`highest expense= ${min}`);
+console.log(`lowest expense= ${min}`);
+var count=0;
 for(exp of expenses)
 {
     if(exp>15000)
     {
-        console.log(exp);
+       count++;
     }
 }
+console.log(count);
+var sum=0,avg=0;
+for(exp of expenses)
+{
+    sum+=exp;
+}
+avg=sum/expenses.length;
+console.log(`average expense= ${avg}`);
 
