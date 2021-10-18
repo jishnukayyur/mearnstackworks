@@ -233,8 +233,11 @@ var users=[
     }
   ]
 
-users.map(user=>(user.name)).forEach(name=>console.log(name))
-users.map(user=>(user.email)).forEach(email=>console.log(email))
+// username,email 
+
+    //users.map(user=>[user.name,user.email]).forEach(data=>console.log(data))
 
 //username,zipcode
+    //users.map(user=>[user.name,user.zipcode]).forEach(data=>console.log(data))
 //username,lat,lng
+    users.map(user=>[user.name,user.lat,user.lng]).forEach(data=>console.log(data))
